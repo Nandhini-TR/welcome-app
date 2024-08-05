@@ -1,0 +1,35 @@
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree Serif';
+}
+.heading {
+  font-size: 28px;
+  color: #f0bb03;
+  font-weight: bold;
+  margin: 10px;
+}
+.description {
+  font-size: 22px;
+  color: #ffffff;
+  margin: 10px;
+}
+.button {
+  height: 40px;
+  width: 100px;
+  background-color: #ffffff;
+  color: #1e293b;
+  font-size: 14px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+}
